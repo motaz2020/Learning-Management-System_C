@@ -12,7 +12,6 @@ This is a Learning Management System (LMS) written in C++. It aims to manage stu
 - [Features](#Features)
 - [Usage](#usage)
 - [Test_Case](#Test_Case)
-- [Contact](#Contact)
 - [Contributing](#contributing)
 
 
@@ -33,10 +32,6 @@ This is a Learning Management System (LMS) written in C++. It aims to manage stu
 5. Exit the program.
 
 
-## **Contact**
-
-- **[Eslam S Rady](mailto:motaz8413@gmail.com)** - Email address
-- **[GitHub]([https://github.com/Esmtra](https://github.com/motaz2020))** - GitHub profile link
 
 ## **Contribution**
 This is a basic LMS system and may require further development to be more robust and scalable. Contributions are welcome, and issues can be reported through the project's Github issue tracker.
