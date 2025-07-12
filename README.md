@@ -35,10 +35,8 @@ This is a Learning Management System (LMS) written in C++. It aims to manage stu
 
 ## **Contact**
 
-- **[Eslam S Rady](mailto:Eselmtrawy@gmail.com)** - Email address
-- **[GitHub](https://github.com/Esmtra)** - GitHub profile link
-- **[LinkedIn](https://www.linkedin.com/in/eslam-mtra-1714201b7/)** - LinkedIn profile link
-
+- **[Eslam S Rady](mailto:motaz8413@gmail.com)** - Email address
+- **[GitHub]([https://github.com/Esmtra](https://github.com/motaz2020))** - GitHub profile link
 
 ## **Contribution**
 This is a basic LMS system and may require further development to be more robust and scalable. Contributions are welcome, and issues can be reported through the project's Github issue tracker.
